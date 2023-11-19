@@ -1,2 +1,2 @@
-bundle
+bundle exec jekyll build
 pause
