@@ -4,7 +4,7 @@ title: "Chương 04: Cơm-mừn"
 permalink: /chapter-04/
 nav_order: 5
 ---
-# CHƯƠNG 04: CƠM-MỪN
+## **CHƯƠNG 04: CƠM-MỪN**
 
 > "_Đừng biến đống code gớm ghiếc của bạn thành comment - hãy viết lại nó"_  
 *- Brian W. Kernighan and P. J. Plaugher*

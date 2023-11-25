@@ -9,8 +9,8 @@ nav_order: 1
 - [Chương 02: Những cái tên rõ nghĩa](/cleancodetv-page/chapter-02/)
 - [Chương 03: Hàm](/cleancodetv-page/chapter-03/)
 - [Chương 04: Cơm-mừn](/cleancodetv-page/chapter-04/)
-- Chương 5  
-- Chương 6  
+- [Chương 05: Định dạng code](/cleancodetv-page/chapter-05/)
+- [Chương 06: Đối tượng và cấu trúc dữ liệu](/cleancodetv-page/chapter-06/)
 - Chương 7  
 - Chương 8  
 - Chương 9  
