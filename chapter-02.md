@@ -5,7 +5,7 @@ permalink: /chapter-02/
 nav_order: 3
 ---
 ## **CHƯƠNG 02: NHỮNG CÁI TÊN RÕ NGHĨA**
-_- Viết bởi Tim Ottinger_
+_- Tim Ottinger_
 
 ---
 

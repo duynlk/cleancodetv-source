@@ -4,7 +4,7 @@ title: "Chương 06: Đối tượng và cấu trúc dữ liệu"
 permalink: /chapter-06/
 nav_order: 7
 ---
-## CHƯƠNG 6: ĐỐI TƯỢNG VÀ CẤU TRÚC DỮ LIỆU
+## **CHƯƠNG 6: ĐỐI TƯỢNG VÀ CẤU TRÚC DỮ LIỆU**
 
 --- 
 
