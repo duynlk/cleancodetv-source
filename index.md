@@ -5,10 +5,10 @@ title: Mục lục
 layout: home
 nav_order: 1
 ---
-- [Chương 1: Code sạch](/cleancodetv-page/chapter-01/)
-- Chương 2  
-- Chương 3  
-- Chương 4  
+- [Chương 01: Code sạch](/cleancodetv-page/chapter-01/)
+- [Chương 02: Những cái tên rõ nghĩa](/cleancodetv-page/chapter-02/)
+- [Chương 03: Hàm](/cleancodetv-page/chapter-03/)
+- [Chương 04: Cơm-mừn](/cleancodetv-page/chapter-04/)
 - Chương 5  
 - Chương 6  
 - Chương 7  
