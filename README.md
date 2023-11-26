@@ -18,7 +18,8 @@
 ---
 
 **Note:**  
-Change `url` and `baseurl` in `_config.yml` file follow your own domain.
+\- Change `url` and `baseurl` in `_config.yml` file follow your own domain.  
+\- Current theme: https://github.com/just-the-docs/just-the-docs
 
 
 
