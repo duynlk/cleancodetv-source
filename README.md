@@ -1,5 +1,11 @@
 # Clean Code Book (Vietnamese)
 
+## Source of content:
+Chapter 01 ~ 06: [quoctinnguyen8](https://github.com/quoctinnguyen8/Clean-Code---Tieng-Viet)  
+Chapter 07 ~ 11: [chukimmuoi](https://github.com/chukimmuoi/Clean-Code---Tieng-Viet)
+
+## How to build it:
+
 **Step 01:**  
 \- Install Jekyll follow the docs: https://jekyllrb.com/docs/installation/
 
@@ -15,9 +21,7 @@
 **Step 05:**  
 \- Copy files and folders in `_site` folder to your html folder and enjoy it!
 
----
-
-**Note:**  
+## Note:
 \- Change `url` and `baseurl` in `_config.yml` file follow your own domain.  
 \- Current theme: https://github.com/just-the-docs/just-the-docs
 
